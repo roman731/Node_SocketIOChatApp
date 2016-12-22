@@ -1,0 +1,15 @@
+{
+  "name": "iochat",
+  "version": "1.0.0",
+  "description": "Socket.io Chat App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "author": "Roman Chametka",
+  "license": "ISC",
+  "dependencies":{
+	"socket.io":"*",
+	"express":"*"
+	}
+}
